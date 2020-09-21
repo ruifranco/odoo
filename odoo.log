@@ -1,0 +1,749 @@
+2020-09-21 10:04:14,943 17704 INFO ? odoo: Odoo version 13.0-20200921 
+2020-09-21 10:04:14,943 17704 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 10:04:14,943 17704 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 10:04:14,943 17704 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 10:04:16,795 17704 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at wkhtmltopdf.exe 
+2020-09-21 10:04:18,303 17704 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 10:04:18,303 17704 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 10:04:20,197 14412 INFO ? odoo: Odoo version 13.0-20200921 
+2020-09-21 10:04:20,197 14412 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 10:04:20,197 14412 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 10:04:20,198 14412 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 10:04:20,483 14412 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 10:04:20,674 14412 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8069 
+2020-09-21 10:06:28,909 14412 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 10:06:28,910 14412 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 10:06:31,573 14504 INFO ? odoo: Odoo version 13.0-20200921 
+2020-09-21 10:06:31,573 14504 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 10:06:31,573 14504 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 10:06:31,573 14504 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 10:06:31,880 14504 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 10:06:32,071 14504 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8069 
+2020-09-21 10:07:06,712 14504 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 10:07:06,712 14504 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 10:07:10,386 22096 INFO ? odoo: Odoo version 13.0-20200921 
+2020-09-21 10:07:10,386 22096 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 10:07:10,386 22096 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 10:07:10,386 22096 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 10:07:10,649 22096 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 10:07:10,823 22096 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8069 
+2020-09-21 11:16:02,580 22096 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:16:02,580 22096 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 11:16:05,712 13484 INFO ? odoo: Odoo version 13.0 
+2020-09-21 11:16:05,713 13484 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 11:16:05,713 13484 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 11:16:05,713 13484 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 11:16:06,209 13484 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 11:16:06,591 13484 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8069 
+2020-09-21 11:16:52,498 13484 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:16:52,498 13484 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 11:16:55,200 4856 INFO ? odoo: Odoo version 13.0 
+2020-09-21 11:16:55,200 4856 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 11:16:55,200 4856 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 11:16:55,200 4856 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 11:16:55,525 4856 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 11:16:55,709 4856 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8069 
+2020-09-21 11:24:14,424 4856 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:24:14,424 4856 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 11:24:16,738 14332 INFO ? odoo: Odoo version 13.0 
+2020-09-21 11:24:16,739 14332 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 11:24:16,739 14332 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 11:24:16,739 14332 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 11:24:16,948 14332 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 11:24:17,093 14332 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8069 
+2020-09-21 11:25:27,632 14332 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:25:27,632 14332 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 11:25:30,146 31900 INFO ? odoo: Odoo version 13.0 
+2020-09-21 11:25:30,146 31900 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 11:25:30,146 31900 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 11:25:30,146 31900 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 11:25:30,398 31900 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 11:25:30,568 31900 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8073 
+2020-09-21 11:25:34,328 31900 INFO ? odoo.http: HTTP Configuring static files 
+2020-09-21 11:25:34,422 31900 INFO 13_EE_SWISS odoo.modules.loading: loading 1 modules... 
+2020-09-21 11:25:34,434 31900 INFO 13_EE_SWISS odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries 
+2020-09-21 11:25:34,439 31900 WARNING 13_EE_SWISS odoo.modules.graph: module web_grid: not installable, skipped 
+2020-09-21 11:25:34,440 31900 WARNING 13_EE_SWISS odoo.modules.graph: module web_gantt: not installable, skipped 
+2020-09-21 11:25:34,441 31900 WARNING 13_EE_SWISS odoo.modules.graph: module web_enterprise: not installable, skipped 
+2020-09-21 11:25:34,442 31900 WARNING 13_EE_SWISS odoo.modules.graph: module web_cohort: not installable, skipped 
+2020-09-21 11:25:34,445 31900 INFO 13_EE_SWISS odoo.modules.loading: loading 8 modules... 
+2020-09-21 11:25:35,136 31900 INFO 13_EE_SWISS odoo.modules.loading: 8 modules loaded in 0.69s, 0 queries 
+2020-09-21 11:25:35,137 31900 ERROR 13_EE_SWISS odoo.modules.loading: Some modules are not loaded, some dependencies or manifest may be missing: ['web_cohort', 'web_enterprise', 'web_gantt', 'web_grid'] 
+2020-09-21 11:25:35,340 31900 INFO 13_EE_SWISS odoo.modules.loading: Modules loaded. 
+2020-09-21 11:25:35,346 31900 INFO 13_EE_SWISS odoo.addons.base.models.ir_http: Generating routing map for key None 
+2020-09-21 11:25:35,951 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,952 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,956 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,960 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,991 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,993 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,995 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:35,997 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:36,040 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:36,060 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:36,098 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:36,193 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,095 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,097 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,099 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,101 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,101 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,104 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,106 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,109 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,110 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,115 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,129 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,140 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,177 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,178 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,179 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,180 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,180 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,182 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,183 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,184 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,184 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,185 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,186 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,186 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,187 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,188 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,189 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,189 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,190 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,191 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,192 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,196 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,197 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,197 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,198 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,199 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,199 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,200 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,201 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,202 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,202 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,203 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,204 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,205 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,205 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,206 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,207 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,208 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,208 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,209 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,210 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,210 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,211 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,212 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,213 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,213 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,214 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,215 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,215 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,216 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,217 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,222 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,227 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,236 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,238 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,241 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,243 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,245 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,246 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,248 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,250 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,250 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,252 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,254 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,257 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,258 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,260 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,261 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,263 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,264 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,266 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,268 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,270 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,272 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,273 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,275 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,276 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,278 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,280 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,281 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,283 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,284 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,286 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,288 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,289 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,291 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,293 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,294 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,296 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,298 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,300 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,301 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,303 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,305 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,307 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,309 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,311 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,312 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,314 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,315 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,317 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,318 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,320 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,322 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,323 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,325 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,326 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,328 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,330 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,332 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,334 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,335 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:37,339 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,342 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,358 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,379 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,380 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,418 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,458 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,492 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,503 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,597 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,654 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:37,684 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,686 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,688 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,690 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,692 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,693 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,695 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,696 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,698 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,699 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,701 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,703 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,705 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,707 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:37,714 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:37,716 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:41,158 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:41,160 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:41,163 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:41,165 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,105 31900 INFO 13_EE_SWISS odoo.models.unlink: User #2 deleted ir.attachment records with IDs: [424] 
+2020-09-21 11:25:43,351 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,353 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,356 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,360 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,361 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,364 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,366 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,369 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,370 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,375 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,385 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,396 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,431 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,432 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,433 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,433 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,434 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,436 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,437 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,438 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,439 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,439 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,440 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,441 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,441 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,442 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,443 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,444 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,444 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,445 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,446 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,450 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,451 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,452 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,452 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,454 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,455 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,456 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,458 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,458 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,459 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,460 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,460 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,461 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,462 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,462 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,463 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,464 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,465 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,465 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,466 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,467 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,467 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,468 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,470 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,471 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,472 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,474 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,475 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,476 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,478 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,486 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,489 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,495 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,497 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,499 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,500 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,503 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,505 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,507 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,508 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,510 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,512 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,513 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,515 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,516 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,518 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,520 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,521 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,523 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,525 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,526 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,528 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,529 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,531 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,533 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,535 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,537 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,539 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,540 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,542 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,544 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,545 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,547 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,548 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,550 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,552 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,554 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,556 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,557 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,559 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,561 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,563 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,566 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,568 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,570 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:43,573 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,575 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,577 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,578 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,580 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,581 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,583 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,585 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,587 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,589 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,590 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,592 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,594 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,596 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:43,598 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:43,600 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:43,911 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:44,266 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,755 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:45,757 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:45,759 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:45,761 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:25:45,924 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,926 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,927 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,929 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,930 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,932 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,933 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,935 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,937 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,939 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,941 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,943 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,944 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,946 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,947 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,949 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:25:45,950 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:45,952 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:45,954 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:45,956 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:45,957 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:25:45,959 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:45,960 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:45,962 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:45,964 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:45,966 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:45,967 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:45,969 31900 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:25:46,054 31900 INFO 13_EE_SWISS odoo.models.unlink: User #2 deleted ir.attachment records with IDs: [425] 
+2020-09-21 11:25:46,126 31900 INFO 13_EE_SWISS odoo.modules.registry: At least one model cache has been invalidated, signaling through the database. 
+2020-09-21 11:25:46,136 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:46] "GET /web/ HTTP/1.1" 200 - 676 0.431 11.356
+2020-09-21 11:25:46,200 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:46] "GET /web/content/422-fc84d5d/web.assets_common.css HTTP/1.1" 200 - 6 0.006 0.014
+2020-09-21 11:25:46,607 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:46] "GET /web/content/423-d6e0ea9/web.assets_backend.css HTTP/1.1" 200 - 4 0.002 0.121
+2020-09-21 11:25:46,608 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:46] "GET /web/content/426-a084dd8/web.assets_common.js HTTP/1.1" 200 - 4 0.010 0.419
+2020-09-21 11:25:46,833 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:46] "GET /web/webclient/load_menus/42d51445baa9457114c1ca9809a06eb8733971f4 HTTP/1.1" 200 - 100 0.115 0.170
+2020-09-21 11:25:46,929 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:46] "GET /web/content/427-1cff1b6/web.assets_backend.js HTTP/1.1" 200 - 4 0.010 0.432
+2020-09-21 11:25:47,385 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:47] "GET /web/webclient/qweb/27fb1f16b9aee29ef5beb90f4a9271d264b4b960?mods=base,web,base_import,odoo_referral,web_diagram,web_editor,web_kanban_gauge,web_tour HTTP/1.1" 200 - 1 0.001 0.018
+2020-09-21 11:25:47,467 31900 INFO ? werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:47] "GET /web/static/src/img/favicon.ico HTTP/1.1" 200 - - - -
+2020-09-21 11:25:47,468 31900 INFO ? werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:47] "GET /web/static/src/xml/dialog.xml?debug=1600687547143 HTTP/1.1" 200 - - - -
+2020-09-21 11:25:47,633 31900 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:25:47] "GET /web/webclient/translations/5227498d9df4b403b0244c75aac21e0c091e50ce?mods=base%2Cweb%2Cbase_import%2Codoo_referral%2Cweb_diagram%2Cweb_editor%2Cweb_kanban_gauge%2Cweb_tour&lang=en_US HTTP/1.1" 200 - 3 0.009 0.005
+2020-09-21 11:26:02,588 31900 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:26:02,588 31900 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 11:26:08,949 34560 INFO ? odoo: Odoo version 13.0 
+2020-09-21 11:26:08,949 34560 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 11:26:08,949 34560 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 11:26:08,949 34560 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 11:26:09,339 34560 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 11:26:09,576 34560 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8073 
+2020-09-21 11:26:10,571 34560 INFO ? odoo.http: HTTP Configuring static files 
+2020-09-21 11:26:10,688 34560 INFO 13_EE_SWISS odoo.modules.loading: loading 1 modules... 
+2020-09-21 11:26:10,707 34560 INFO 13_EE_SWISS odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries 
+2020-09-21 11:26:10,713 34560 WARNING 13_EE_SWISS odoo.modules.graph: module web_grid: not installable, skipped 
+2020-09-21 11:26:10,714 34560 WARNING 13_EE_SWISS odoo.modules.graph: module web_gantt: not installable, skipped 
+2020-09-21 11:26:10,716 34560 WARNING 13_EE_SWISS odoo.modules.graph: module web_enterprise: not installable, skipped 
+2020-09-21 11:26:10,723 34560 WARNING 13_EE_SWISS odoo.modules.graph: module web_cohort: not installable, skipped 
+2020-09-21 11:26:10,731 34560 INFO 13_EE_SWISS odoo.modules.loading: loading 8 modules... 
+2020-09-21 11:26:10,865 34560 INFO 13_EE_SWISS odoo.modules.loading: 8 modules loaded in 0.13s, 0 queries 
+2020-09-21 11:26:10,866 34560 ERROR 13_EE_SWISS odoo.modules.loading: Some modules are not loaded, some dependencies or manifest may be missing: ['web_cohort', 'web_enterprise', 'web_gantt', 'web_grid'] 
+2020-09-21 11:26:11,191 34560 INFO 13_EE_SWISS odoo.modules.loading: Modules loaded. 
+2020-09-21 11:26:11,199 34560 INFO 13_EE_SWISS odoo.addons.base.models.ir_http: Generating routing map for key None 
+2020-09-21 11:26:11,354 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:11] "GET / HTTP/1.1" 303 - 14 0.040 0.729
+2020-09-21 11:26:11,876 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,878 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,881 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,888 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,927 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,929 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,931 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,934 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,938 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,940 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,943 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:11,946 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,798 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,802 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,806 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,811 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,813 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,817 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,821 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,825 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,826 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,833 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,849 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,867 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,927 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:12,928 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:12,929 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:12,930 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:12,931 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:12,935 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,937 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,938 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,940 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,941 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,942 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,944 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,945 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,946 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,948 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,949 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,952 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,954 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,955 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,964 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,966 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,968 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,969 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,971 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,972 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,973 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,974 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,975 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,976 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,977 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,978 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,980 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,981 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,983 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,985 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:12,986 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:12,988 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:12,989 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:12,991 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:12,992 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:12,993 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:12,995 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:12,996 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:12,998 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:12,999 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,002 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,004 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,005 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,006 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,013 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,019 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,029 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:13,032 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:13,034 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:13,037 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:13,042 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,044 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,046 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,048 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,050 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,053 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,056 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,058 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,060 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,062 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,064 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,066 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,069 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,071 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,073 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,075 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,076 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,078 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,080 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,082 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,084 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,087 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,089 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,091 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,092 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,094 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,096 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,097 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,100 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,103 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,106 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,108 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,110 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,111 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,113 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,115 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,117 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,120 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,123 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:13,126 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,128 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,130 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,131 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,134 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,136 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,138 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,140 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,141 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,143 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,145 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,147 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,150 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,154 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,158 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,162 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:13,170 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,176 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,180 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,185 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,189 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,192 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,195 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,197 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,200 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,205 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,209 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:13,211 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,213 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,215 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,217 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,219 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,222 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,224 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,227 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,231 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,234 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,236 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,239 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,241 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,243 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:13,246 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:13,248 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,772 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,774 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,776 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,778 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,784 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,787 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,793 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:16,794 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:16,796 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:16,798 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:16,800 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,801 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,803 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,804 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,807 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,809 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,810 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,812 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,813 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,815 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,816 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,818 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,819 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,821 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,823 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,824 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,826 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:16,827 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:16,829 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:16,830 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:16,832 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:16,833 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,835 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,837 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,838 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,840 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,841 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,843 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,845 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,846 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,848 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,850 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,852 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,854 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,856 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,857 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,859 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,861 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,863 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_cohort: module not found 
+2020-09-21 11:26:16,865 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,866 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,869 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,871 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,873 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,874 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,876 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,877 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,879 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,881 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,882 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,884 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,886 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,887 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_enterprise: module not found 
+2020-09-21 11:26:16,890 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_gantt: module not found 
+2020-09-21 11:26:16,891 34560 WARNING 13_EE_SWISS odoo.modules.module: module web_grid: module not found 
+2020-09-21 11:26:16,929 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:16] "GET /web HTTP/1.1" 200 - 468 0.319 5.251
+2020-09-21 11:26:16,972 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:16] "GET /web/content/422-fc84d5d/web.assets_common.css HTTP/1.1" 200 - 4 0.006 0.014
+2020-09-21 11:26:17,379 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:17] "GET /web/content/423-d6e0ea9/web.assets_backend.css HTTP/1.1" 200 - 4 0.002 0.115
+2020-09-21 11:26:17,384 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:17] "GET /web/webclient/load_menus/42d51445baa9457114c1ca9809a06eb8733971f4 HTTP/1.1" 200 - 1 0.001 0.089
+2020-09-21 11:26:17,405 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:17] "GET /web/content/426-a084dd8/web.assets_common.js HTTP/1.1" 200 - 4 0.006 0.136
+2020-09-21 11:26:17,423 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:17] "GET /web/content/427-1cff1b6/web.assets_backend.js HTTP/1.1" 200 - 4 0.022 0.135
+2020-09-21 11:26:17,947 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:17] "GET /web/webclient/qweb/27fb1f16b9aee29ef5beb90f4a9271d264b4b960?mods=base,web,base_import,odoo_referral,web_diagram,web_editor,web_kanban_gauge,web_tour HTTP/1.1" 200 - 1 0.000 0.016
+2020-09-21 11:26:18,043 34560 INFO ? werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:18] "GET /web/static/src/xml/dialog.xml?debug=1600687577736 HTTP/1.1" 200 - - - -
+2020-09-21 11:26:18,199 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:18] "GET /web/webclient/translations/5227498d9df4b403b0244c75aac21e0c091e50ce?mods=base%2Cweb%2Cbase_import%2Codoo_referral%2Cweb_diagram%2Cweb_editor%2Cweb_kanban_gauge%2Cweb_tour&lang=en_US HTTP/1.1" 200 - 3 0.010 0.004
+2020-09-21 11:26:24,372 34560 WARNING 13_EE_SWISS odoo.sql_db: Cursor not closed explicitly
+Please enable sql debugging to trace the caller. 
+2020-09-21 11:26:24,455 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=4/max=64): Free leaked connection to 'user=openpg password=xxx dbname=13_EE_SWISS host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,571 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=27/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=10_Condominio_20180404 host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,572 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=26/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=10_EE_TESTE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,572 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=25/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_EE_PrecisionFarmingSolutions host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,572 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=24/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_Odooveloper host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,572 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=23/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_Password host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,572 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=22/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_TESTE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,572 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=21/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_TESTE_EE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,573 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=20/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_AGLeader_Reseller host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,573 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=19/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_CAP-841_20200907 host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,573 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=18/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_CAPERA_MODELO host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,573 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=17/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_CE_Fleet host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,573 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=16/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_Fleet host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,574 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=15/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_PDF_Encyption_CAPERA host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,574 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=14/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_PDF_Encyption_CAPERA_2 host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,574 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=13/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_cplus host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,574 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=12/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_INVOICE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,574 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=11/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=9_TESTE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:26,623 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:26] "GET /web/database/manager HTTP/1.1" 200 - 52 0.903 1.351
+2020-09-21 11:26:33,115 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:33] "POST /web/database/change_password HTTP/1.1" 303 - 1 0.000 0.207
+2020-09-21 11:26:33,217 34560 WARNING 13_EE_SWISS odoo.sql_db: Cursor not closed explicitly
+Please enable sql debugging to trace the caller. 
+2020-09-21 11:26:33,343 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=11/max=64): Free leaked connection to 'user=openpg password=xxx dbname=13_EE_SWISS host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,542 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=27/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=10_Condominio_20180404 host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,542 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=26/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=10_EE_TESTE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,543 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=25/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_EE_PrecisionFarmingSolutions host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,543 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=24/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_Odooveloper host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,543 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=23/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_Password host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,544 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=22/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_TESTE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,544 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=21/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=11_TESTE_EE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,544 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=20/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_AGLeader_Reseller host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,545 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=19/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_CAP-841_20200907 host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,545 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=18/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_CAPERA_MODELO host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,545 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=17/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_CE_Fleet host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,545 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=16/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_Fleet host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,546 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=15/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_PDF_Encyption_CAPERA host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,546 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=14/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_PDF_Encyption_CAPERA_2 host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,546 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=13/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_EE_cplus host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,546 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=12/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=12_INVOICE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,547 34560 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=11/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=9_TESTE host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:26:34,553 34560 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:26:34] "GET /web/database/manager HTTP/1.1" 200 - 52 0.175 1.163
+2020-09-21 11:27:31,854 34560 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:27:31,854 34560 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-09-21 11:27:34,513 15476 INFO ? odoo: Odoo version 13.0 
+2020-09-21 11:27:34,514 15476 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-09-21 11:27:34,514 15476 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\ruifr\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\odoo\\addons', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\odoo\\odoo\\addons', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\addons-enterprise', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\addons-community', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\purchase-workflow', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\server-backend', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\partner-contact', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\addons-comceptplus', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\fulfillxpress', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\ktvodoo', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\wibteck_blackbox', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\sharevault13', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\ordermatic', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\corvidtec', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\agleader', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\addons-freelancer', 'c:\\users\\ruifr\\onedrive\\documentos\\github\\odoo\\addons-odooveloper', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\capera\\addons', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\capera\\addons\\custom', 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\capera\\addons\\libs\\of', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-09-21 11:27:34,514 15476 INFO ? odoo: database: openpg@localhost:5432 
+2020-09-21 11:27:34,852 15476 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-09-21 11:27:35,035 15476 INFO ? odoo.service.server: HTTP service (werkzeug) running on LAPTOP-Q99VJC82..home:8073 
+2020-09-21 11:27:39,960 15476 INFO ? werkzeug: 127.0.0.1 - - [21/Sep/2020 11:27:39] "GET /web/database/manager HTTP/1.1" 500 - - - -
+2020-09-21 11:27:39,964 15476 ERROR ? werkzeug: Error on request:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Odoo 13.0\python\lib\site-packages\werkzeug\serving.py", line 304, in run_wsgi
+    execute(self.server.app)
+  File "C:\Program Files (x86)\Odoo 13.0\python\lib\site-packages\werkzeug\serving.py", line 292, in execute
+    application_iter = app(environ, start_response)
+  File "C:\Program Files (x86)\Odoo 13.0\server\odoo\service\server.py", line 439, in app
+    return self.app(e, s)
+  File "C:\Program Files (x86)\Odoo 13.0\server\odoo\service\wsgi_server.py", line 142, in application
+    return application_unproxied(environ, start_response)
+  File "C:\Program Files (x86)\Odoo 13.0\server\odoo\service\wsgi_server.py", line 117, in application_unproxied
+    result = odoo.http.root(environ, start_response)
+  File "C:\Program Files (x86)\Odoo 13.0\server\odoo\http.py", line 1286, in __call__
+    self.load_addons()
+  File "C:\Program Files (x86)\Odoo 13.0\server\odoo\http.py", line 1295, in load_addons
+    for module in sorted(os.listdir(str(addons_path))):
+FileNotFoundError: [WinError 3] O sistema não conseguiu localizar o caminho especificado: 'c:\\users\\ruifr\\onedrive\\documentos\\odoo\\odoo\\addons' - - -
+2020-09-21 11:27:41,838 15476 INFO 13_EE_SWISS odoo.modules.loading: loading 1 modules... 
+2020-09-21 11:27:41,851 15476 INFO 13_EE_SWISS odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries 
+2020-09-21 11:27:41,876 15476 INFO 13_EE_SWISS odoo.modules.loading: loading 12 modules... 
+2020-09-21 11:27:42,038 15476 INFO 13_EE_SWISS odoo.modules.loading: 12 modules loaded in 0.16s, 0 queries 
+2020-09-21 11:27:42,297 15476 INFO 13_EE_SWISS odoo.modules.loading: Modules loaded. 
+2020-09-21 11:27:42,302 15476 INFO 13_EE_SWISS odoo.addons.base.models.ir_http: Generating routing map for key None 
+2020-09-21 11:27:42,422 15476 WARNING 13_EE_SWISS odoo.sql_db: Cursor not closed explicitly
+Please enable sql debugging to trace the caller. 
+2020-09-21 11:27:42,518 15476 INFO 13_EE_SWISS odoo.sql_db: ConnectionPool(used=0/count=1/max=64): Free leaked connection to 'user=openpg password=xxx dbname=13_EE_SWISS host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:27:43,069 15476 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:27:43] "GET /web/database/manager HTTP/1.1" 200 - 31 0.101 1.207
+2020-09-21 11:27:43,221 15476 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:27:43] "GET /web/static/src/img/favicon.ico HTTP/1.1" 404 - 2 0.004 0.003
+2020-09-21 11:27:48,888 15476 INFO None odoo.sql_db: ConnectionPool(used=0/count=7/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=13_EE_SWISS host=localhost port=5432 sslmode=prefer' 
+2020-09-21 11:27:49,264 15476 INFO None odoo.service.db: DROP DB: 13_EE_SWISS 
+2020-09-21 11:27:49,374 15476 INFO None werkzeug: 127.0.0.1 - - [21/Sep/2020 11:27:49] "POST /web/database/drop HTTP/1.1" 303 - 4 0.335 0.277
+2020-09-21 11:27:49,435 15476 INFO 13_EE_SWISS odoo.sql_db: Connection to the database failed 
+2020-09-21 11:27:49,435 15476 INFO 13_EE_SWISS odoo.http: Generating nondb routing 
+2020-09-21 11:27:49,649 15476 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:27:49] "GET /web/database/manager HTTP/1.1" 200 - 15 0.012 0.259
