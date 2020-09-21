@@ -747,3 +747,6 @@ Please enable sql debugging to trace the caller.
 2020-09-21 11:27:49,435 15476 INFO 13_EE_SWISS odoo.sql_db: Connection to the database failed 
 2020-09-21 11:27:49,435 15476 INFO 13_EE_SWISS odoo.http: Generating nondb routing 
 2020-09-21 11:27:49,649 15476 INFO 13_EE_SWISS werkzeug: 127.0.0.1 - - [21/Sep/2020 11:27:49] "GET /web/database/manager HTTP/1.1" 200 - 15 0.012 0.259
+2020-09-21 11:52:40,536 15476 INFO ? werkzeug: 127.0.0.1 - - [21/Sep/2020 11:52:40] "GET /web/database/manager HTTP/1.1" 200 - 16 0.018 0.204
+2020-09-21 11:53:15,965 15476 INFO ? odoo.service.server: Initiating shutdown 
+2020-09-21 11:53:15,965 15476 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
